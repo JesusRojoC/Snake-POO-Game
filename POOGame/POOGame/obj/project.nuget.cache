@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0b5CowVLQOIvvOgGj2yMDhuBnnA+bzjG0YHfhTngsgZZBp3jRsBnqnre1kkrYxTKUZLloC3PaQLhp+JoIPNKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesus\\Desktop\\POOGame\\POOGame\\POOGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
